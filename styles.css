@@ -79,13 +79,13 @@ footer {
     background-color: white;
 }
 @media screen and (max-width:600px) {
-    .set{
+    .set button{
         grid-template-columns: 1fr;
         /* padding: 2rem 50px; */
-        align-items: center;
-        width: 40rem;
-        height: 25rem;
+         align-items: center;
+/*         width: 40rem;
+        height: 25rem; */ */
         /* margin-right: 14rem; */
-        margin-left: 5rem;
+/*         margin-left: 5rem; */
 }
     
